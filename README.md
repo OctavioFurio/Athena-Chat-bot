@@ -1,6 +1,6 @@
-# Athena-Chat-bot
+# Athena
 Um bot experimental que visa manter diálogos com usuários do Discord, implementando o ChatGPT emulando a personalidade de Athena..
 
-# Dependências
+#### Dependências
 Para instalar as dependências, execute: 
-    pip install -r requirements.txt
+`pip install discord openai`
